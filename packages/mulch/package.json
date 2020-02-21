@@ -2,7 +2,7 @@
   "name": "@knowler/mulch",
   "version": "1.0.0",
   "bin": {
-    "mulch": "./index.js"
+    "mulch": "./bin.js"
   },
   "author": "Nathan Knowler",
   "license": "MIT",
