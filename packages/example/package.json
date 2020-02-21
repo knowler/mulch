@@ -1,0 +1,17 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Nathan Knowler",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "mulch"
+  },
+  "dependencies": {
+    "@knowler/mulch": "^1.0.0"
+  },
+  "devDependencies": {
+    "webpack-assets-manifest": "^3.1.1"
+  }
+}

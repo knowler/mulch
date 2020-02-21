@@ -1,0 +1,22 @@
+{
+  "name": "@knowler/mulch",
+  "version": "1.0.0",
+  "bin": {
+    "mulch": "./index.js"
+  },
+  "author": "Nathan Knowler",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.8.4",
+    "babel-loader": "^8.0.6",
+    "cache-loader": "^4.1.0",
+    "clean-webpack-plugin": "^3.0.0",
+    "css-loader": "^3.4.2",
+    "dotenv": "^8.2.0",
+    "friendly-errors-webpack-plugin": "^1.7.0",
+    "lodash": "^4.17.15",
+    "mini-css-extract-plugin": "^0.9.0",
+    "style-loader": "^1.1.3",
+    "webpack": "^4.41.6"
+  }
+}
