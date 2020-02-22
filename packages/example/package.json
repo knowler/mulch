@@ -10,8 +10,5 @@
   },
   "dependencies": {
     "@knowler/mulch": "^1.0.0"
-  },
-  "devDependencies": {
-    "webpack-assets-manifest": "^3.1.1"
   }
 }
